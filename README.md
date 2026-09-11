@@ -1,2 +1,2 @@
 # Linux-commands
-ちなみに、Archを使っています。
+I just wanna game in linux.
