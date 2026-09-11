@@ -1,2 +1,2 @@
-# Linux-commands
+# Proton-commands
 I just wanna game in linux.
